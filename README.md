@@ -51,12 +51,12 @@ A configurable workspace connecting veterinary appointments, consultation notes,
 
 | Project | What I explore |
 | --- | --- |
-| [Elu](https://eduardosalomon.eilvi.com/projects/elu) | Family routines and shared records: React, TypeScript, offline queues, and a public demo separated from private family data. |
 | [Premier Money](https://eduardosalomon.eilvi.com/projects/premier-money) | Football finances and results through interactive SVG charts, season comparisons, and explicit data sources. |
-| [Pitchwise](https://eduardosalomon.eilvi.com/projects/the-invisible-game) | Football tactics through a playable learning experience built with React and TypeScript. |
 | [Gravi](https://eduardosalomon.eilvi.com/projects/gravi) | A browser-based 3D world with adjustable gravity, exploration, and touch controls. React, TypeScript, and Three.js. |
-| [FolioShift](https://github.com/eduardosalomonm/market-radar) | Portfolio and market-data exploration with Python and Streamlit, saved analysis, and transparent scoring. |
+| [Elu](https://eduardosalomon.eilvi.com/projects/elu) | Family routines and shared records: React, TypeScript, offline queues, and a public demo separated from private family data. |
 | [Pomodoro Músculo](https://github.com/eduardosalomonm/pomodoro-musculo) | Focus and active breaks, with optional on-device movement tracking. JavaScript, MediaPipe, and PWA features. |
+| [Pitchwise](https://eduardosalomon.eilvi.com/projects/the-invisible-game) | Football tactics through a playable learning experience built with React and TypeScript. |
+| [FolioShift](https://github.com/eduardosalomonm/market-radar) | Portfolio and market-data exploration with Python and Streamlit, saved analysis, and transparent scoring. |
 
 **[Explore the full showcase →](https://github.com/eduardosalomonm/eduardosalomonm/blob/main/SHOWCASE.md)** — more apps, games, data tools, and interactive essays, including projects with public demos and private source code.
 
