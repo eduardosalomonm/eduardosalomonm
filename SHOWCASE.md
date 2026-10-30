@@ -38,8 +38,8 @@ Each project links to a public case study or demo. **Public code** links are inc
 
 | Project | Focus | Explore |
 | --- | --- | --- |
-| **Pitchwise** | Football tactics, playable competitions, and structured lessons. | [Case study](https://eduardosalomon.eilvi.com/projects/the-invisible-game) |
-| **Gravi** | A small 3D world where changing gravity opens new routes. | [Case study](https://eduardosalomon.eilvi.com/projects/gravi) |
+| **Pitchwise** | Football tactics, playable competitions, and structured lessons. | [Case study](https://eduardosalomon.eilvi.com/projects/the-invisible-game) · [Public code](https://github.com/eduardosalomonm/pitchwise-game) |
+| **Gravi** | A small 3D world where changing gravity opens new routes. | [Case study](https://eduardosalomon.eilvi.com/projects/gravi) · [Public code](https://github.com/eduardosalomonm/gravi) |
 | **Growing Together** | A shared story game about pregnancy and the first year of parenting. | [Case study](https://eduardosalomon.eilvi.com/projects/growing-together) |
 | **Carta al siguiente** | An interactive letter-writing experience with browser audio. | [Case study](https://eduardosalomon.eilvi.com/projects/carta-al-siguiente) |
 | **Playa Azul** | A browser-based beach experience built with Three.js and React. | [Case study](https://eduardosalomon.eilvi.com/projects/playa-azul) |
