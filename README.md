@@ -10,6 +10,14 @@ Through **[Eilvi](https://eilvi.com/)**, my consulting, AI, and automation studi
 
 Outside business projects, I follow my curiosity into football, chess, learning, family life, and small playable worlds. Those projects are part of how I learn and explore new ways to build.
 
+<table>
+  <tr>
+    <td width="33%"><a href="https://eduardosalomon.eilvi.com/projects/a1-unit-economics"><img src="https://raw.githubusercontent.com/eduardosalomonm/eduardosalomonm/main/assets/margin-map.webp" alt="Margin Map dashboard showing synthetic e-commerce margins and variable costs" width="280"></a><br><strong>Margin Map</strong><br>Business software</td>
+    <td width="33%"><a href="https://eduardosalomon.eilvi.com/projects/premier-money"><img src="https://raw.githubusercontent.com/eduardosalomonm/eduardosalomonm/main/assets/premier-money.webp" alt="Premier Money dashboard comparing football club finances and results" width="280"></a><br><strong>Premier Money</strong><br>Data visualization</td>
+    <td width="33%"><a href="https://eduardosalomon.eilvi.com/projects/gravi"><img src="https://raw.githubusercontent.com/eduardosalomonm/eduardosalomonm/main/assets/gravi.webp" alt="Gravi exploring a small 3D planet with adjustable gravity" width="280"></a><br><strong>Gravi</strong><br>Interactive experiences</td>
+  </tr>
+</table>
+
 ## Selected business projects
 
 ### [Margin Map](https://github.com/eduardosalomonm/shopify-unit-economics)
