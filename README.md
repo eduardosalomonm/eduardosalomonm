@@ -13,8 +13,8 @@ Outside business projects, I follow my curiosity into football, chess, learning,
 <table>
   <tr>
     <td width="33%"><a href="https://eduardosalomon.eilvi.com/projects/a1-unit-economics"><img src="https://raw.githubusercontent.com/eduardosalomonm/eduardosalomonm/main/assets/margin-map.webp" alt="Margin Map dashboard showing synthetic e-commerce margins and variable costs" width="280"></a><br><strong>Margin Map</strong><br>Business software</td>
-    <td width="33%"><a href="https://eduardosalomon.eilvi.com/projects/premier-money"><img src="https://raw.githubusercontent.com/eduardosalomonm/eduardosalomonm/main/assets/premier-money.webp" alt="Premier Money dashboard comparing football club finances and results" width="280"></a><br><strong>Premier Money</strong><br>Data visualization</td>
-    <td width="33%"><a href="https://eduardosalomon.eilvi.com/projects/gravi"><img src="https://raw.githubusercontent.com/eduardosalomonm/eduardosalomonm/main/assets/gravi.webp" alt="Gravi exploring a small 3D planet with adjustable gravity" width="280"></a><br><strong>Gravi</strong><br>Interactive experiences</td>
+    <td width="33%"><a href="https://eduardosalomon.eilvi.com/projects/gravi"><img src="https://raw.githubusercontent.com/eduardosalomonm/eduardosalomonm/main/assets/gravi.webp" alt="Gravi exploring a small 3D planet with adjustable gravity" width="280"></a><br><strong>Gravi</strong><br>3D exploration</td>
+    <td width="33%"><a href="https://eduardosalomon.eilvi.com/projects/the-invisible-game"><img src="https://raw.githubusercontent.com/eduardosalomonm/eduardosalomonm/main/assets/pitchwise.webp" alt="Pitchwise Training Ground with playable football positions and tactical practice" width="280"></a><br><strong>Pitchwise</strong><br>Football tactics & play</td>
   </tr>
 </table>
 
@@ -47,15 +47,33 @@ A configurable workspace connecting veterinary appointments, consultation notes,
 
 [Live demo](https://veterinaria.eilvi.com/) · [Public code](https://github.com/eduardosalomonm/cercavet)
 
-## Personal projects
+## Selected personal projects
+
+### [Gravi](https://eduardosalomon.eilvi.com/projects/gravi)
+A small browser-based 3D world where changing gravity opens new ways to move, explore, and solve challenges.
+
+**Engineering focus:** movement and gravity controls, exploration-driven challenges, touch and keyboard input, and locally saved progress.
+
+`React` `TypeScript` `Three.js`
+
+[Play Gravi](https://gravi.eduardosalomonm.chatgpt.site/) · [Case study](https://eduardosalomon.eilvi.com/projects/gravi)
+
+### [Pitchwise](https://eduardosalomon.eilvi.com/projects/the-invisible-game)
+Football tactics through playable scenarios, guided explanations, and competitions. A personal project combining my interest in football with interactive learning.
+
+**Engineering focus:** tactical decision scenarios, match and competition flows, progress tracking, and responsive interaction.
+
+`React` `TypeScript`
+
+[Play Pitchwise](https://pitchwise.eilvi.com/) · [Case study](https://eduardosalomon.eilvi.com/projects/the-invisible-game)
+
+## More personal projects
 
 | Project | What I explore |
 | --- | --- |
 | [Premier Money](https://eduardosalomon.eilvi.com/projects/premier-money) | Football finances and results through interactive SVG charts, season comparisons, and explicit data sources. |
-| [Gravi](https://eduardosalomon.eilvi.com/projects/gravi) | A browser-based 3D world with adjustable gravity, exploration, and touch controls. React, TypeScript, and Three.js. |
 | [Elu](https://eduardosalomon.eilvi.com/projects/elu) | Family routines and shared records: React, TypeScript, offline queues, and a public demo separated from private family data. |
 | [Pomodoro Músculo](https://github.com/eduardosalomonm/pomodoro-musculo) | Focus and active breaks, with optional on-device movement tracking. JavaScript, MediaPipe, and PWA features. |
-| [Pitchwise](https://eduardosalomon.eilvi.com/projects/the-invisible-game) | Football tactics through a playable learning experience built with React and TypeScript. |
 | [FolioShift](https://github.com/eduardosalomonm/market-radar) | Portfolio and market-data exploration with Python and Streamlit, saved analysis, and transparent scoring. |
 
 **[Explore the full showcase →](https://github.com/eduardosalomonm/eduardosalomonm/blob/main/SHOWCASE.md)** — more apps, games, data tools, and interactive essays, including projects with public demos and private source code.
