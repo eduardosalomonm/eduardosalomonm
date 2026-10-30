@@ -56,7 +56,7 @@ A small browser-based 3D world where changing gravity opens new ways to move, ex
 
 `React` `TypeScript` `Three.js`
 
-[Play Gravi](https://gravi.eduardosalomonm.chatgpt.site/) · [Case study](https://eduardosalomon.eilvi.com/projects/gravi)
+[Play Gravi](https://gravi.eduardosalomonm.chatgpt.site/) · [Public code](https://github.com/eduardosalomonm/gravi) · [Case study](https://eduardosalomon.eilvi.com/projects/gravi)
 
 ### [Pitchwise](https://eduardosalomon.eilvi.com/projects/the-invisible-game)
 Football tactics through playable scenarios, guided explanations, and competitions. A personal project combining my interest in football with interactive learning.
@@ -65,7 +65,7 @@ Football tactics through playable scenarios, guided explanations, and competitio
 
 `React` `TypeScript`
 
-[Play Pitchwise](https://pitchwise.eilvi.com/) · [Case study](https://eduardosalomon.eilvi.com/projects/the-invisible-game)
+[Play Pitchwise](https://pitchwise.eilvi.com/) · [Public code](https://github.com/eduardosalomonm/pitchwise-game) · [Case study](https://eduardosalomon.eilvi.com/projects/the-invisible-game)
 
 ## More personal projects
 
