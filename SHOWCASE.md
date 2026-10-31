@@ -8,7 +8,7 @@ Each project links to a public case study or demo. **Public code** links are inc
 
 | Project | Focus | Explore |
 | --- | --- | --- |
-| **Margin Map** | E-commerce margins, validated data pipelines, and executive reporting. | [Case study](https://eduardosalomon.eilvi.com/projects/a1-unit-economics) · [Public code](https://github.com/eduardosalomonm/shopify-unit-economics) |
+| **Margin Map** | E-commerce margins, validated data pipelines, and executive reporting. | [Case study](https://eduardosalomon.eilvi.com/projects/a1-unit-economics) · [Public code](https://github.com/eduardosalomonm/margin-map) |
 | **Inbox Desk** | Email classification, tickets, and drafts for human review. | [Case study](https://eduardosalomon.eilvi.com/projects/inbox-desk) · [Public code](https://github.com/eduardosalomonm/inbox-desk) |
 | **CercaVet** | Appointments, consultations, and follow-up workflows for veterinary clinics. | [Presentation & demo](https://veterinaria.eilvi.com/clinicas/) · [Public code](https://github.com/eduardosalomonm/cercavet) |
 

@@ -26,14 +26,14 @@ Outside business projects, I follow my curiosity into football, chess, learning,
 
 ## Selected business projects
 
-### [Margin Map](https://github.com/eduardosalomonm/shopify-unit-economics)
+### [Margin Map](https://github.com/eduardosalomonm/margin-map)
 E-commerce unit economics: editable Excel inputs, a Python validation pipeline, and an interactive margin dashboard with executive reporting.
 
 **Engineering focus:** traceable calculations, input integrity, and reproducible HTML, PDF, and Excel outputs. The public demo uses synthetic data.
 
 `Python` `Excel` `Shopify`
 
-[Live demo](https://marginmap.eilvi.com/) · [Public code](https://github.com/eduardosalomonm/shopify-unit-economics) · [Case study](https://eduardosalomon.eilvi.com/projects/a1-unit-economics)
+[Live demo](https://marginmap.eilvi.com/) · [Public code](https://github.com/eduardosalomonm/margin-map) · [Case study](https://eduardosalomon.eilvi.com/projects/a1-unit-economics)
 
 ### [Inbox Desk](https://github.com/eduardosalomonm/inbox-desk)
 Shared-inbox triage that classifies messages, creates tickets, and prepares Gmail drafts for human review.
