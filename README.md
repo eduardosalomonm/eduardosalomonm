@@ -1,4 +1,4 @@
-# Eduardo Salomon
+<img src="assets/banner.svg" alt="Eduardo Salomon — Obsessive builder" width="100%">
 
 **Obsessive builder.** I make software for small businesses at [Eilvi](https://eilvi.com/) — and, the rest of the time, whatever idea won't leave me alone: games, data tools, learning apps, and tools for my own family.
 
@@ -15,6 +15,20 @@ Outside client work, I build to learn: football, chess, family routines, and sma
     <td width="33%"><a href="https://eduardosalomon.eilvi.com/projects/the-invisible-game"><img src="https://raw.githubusercontent.com/eduardosalomonm/eduardosalomonm/main/assets/pitchwise.webp" alt="Pitchwise Training Ground with playable football positions and tactical practice" width="280"></a><br><strong>Pitchwise</strong><br>Football tactics & play</td>
   </tr>
 </table>
+
+## Build log
+
+What I pushed most recently, updated daily by a GitHub Action.
+
+<!-- build-log:start -->
+| When | Project | Latest commit |
+| --- | --- | --- |
+| today | [margin-map](https://github.com/eduardosalomonm/margin-map) | Link the online dashboard through marginmap.eilvi.com |
+| yesterday | [gravi](https://github.com/eduardosalomonm/gravi) | Publish clean gravi source edition |
+| yesterday | [pitchwise-game](https://github.com/eduardosalomonm/pitchwise-game) | Publish clean pitchwise source edition |
+| yesterday | [market-radar](https://github.com/eduardosalomonm/market-radar) | Fix audit findings: scan crash, stale catch-up scans, paid AI reruns, d… |
+| 3 days ago | [cercavet](https://github.com/eduardosalomonm/cercavet) | Fix first-use friction and record five-persona launch QA |
+<!-- build-log:end -->
 
 ## Business software
 
