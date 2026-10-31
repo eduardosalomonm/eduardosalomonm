@@ -1,6 +1,6 @@
 # Eduardo Salomon
 
-**Business software, workflow automation, and personal projects.**
+**I build software for small businesses at [Eilvi](https://eilvi.com/) — and games about football and gravity for fun.**
 
 [Portfolio](https://eduardosalomon.eilvi.com/) · [Eilvi](https://eilvi.com/) · [LinkedIn](https://www.linkedin.com/in/eduardo-salomon) · [Get in touch](https://eduardosalomon.eilvi.com/contact)
 
@@ -18,6 +18,12 @@ Outside business projects, I follow my curiosity into football, chess, learning,
   </tr>
 </table>
 
+## Recently shipped
+
+- **Margin Map v1.2.0** — scenario analysis and a reconciled Excel workbook.
+- **FolioShift** — guest portfolio workspaces with concentration reviews and currency scenarios.
+- **Pomodoro Músculo beta 0.8.0** — front-facing squat tracking and more reliable break alerts.
+
 ## Selected business projects
 
 ### [Margin Map](https://github.com/eduardosalomonm/shopify-unit-economics)
@@ -29,14 +35,14 @@ E-commerce unit economics: editable Excel inputs, a Python validation pipeline, 
 
 [Live demo](https://marginmap.eilvi.com/) · [Public code](https://github.com/eduardosalomonm/shopify-unit-economics) · [Case study](https://eduardosalomon.eilvi.com/projects/a1-unit-economics)
 
-### [Inbox Desk](https://github.com/eduardosalomonm/c3-inbox-triage)
+### [Inbox Desk](https://github.com/eduardosalomonm/inbox-desk)
 Shared-inbox triage that classifies messages, creates tickets, and prepares Gmail drafts for human review.
 
 **Engineering focus:** explicit decision rules, durable processing records, retry handling, and an authenticated review dashboard. A credential-free local demo uses fictional messages.
 
 `Node.js` `JavaScript` `n8n` `Gmail`
 
-[Public code & local demo](https://github.com/eduardosalomonm/c3-inbox-triage) · [Case study & video](https://eduardosalomon.eilvi.com/projects/inbox-desk)
+[Public code & local demo](https://github.com/eduardosalomonm/inbox-desk) · [Case study & video](https://eduardosalomon.eilvi.com/projects/inbox-desk)
 
 ### [CercaVet](https://github.com/eduardosalomonm/cercavet)
 A configurable workspace connecting veterinary appointments, consultation notes, follow-ups, and return visits.
