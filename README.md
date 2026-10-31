@@ -1,14 +1,12 @@
 # Eduardo Salomon
 
-**I build software for small businesses at [Eilvi](https://eilvi.com/) — and games about football and gravity for fun.**
+**Obsessive builder.** I make software for small businesses at [Eilvi](https://eilvi.com/) — and, the rest of the time, whatever idea won't leave me alone: games, data tools, learning apps, and tools for my own family.
 
 [Portfolio](https://eduardosalomon.eilvi.com/) · [Eilvi](https://eilvi.com/) · [LinkedIn](https://www.linkedin.com/in/eduardo-salomon) · [Get in touch](https://eduardosalomon.eilvi.com/contact)
 
-I build apps, data tools, and interactive experiences. My background in **sales, marketing, and business development** shapes the questions I start with: who needs this, how does their work actually happen, and what would make the next step easier?
+I came to software from **sales, marketing, and business development**, so I start with people, not code: who needs this, how does their work actually happen, and what would make the next step easier? At **[Eilvi](https://eilvi.com/)**, my consulting, AI, and automation studio, that turns into working software — from data models and validation to interfaces and integrations.
 
-Through **[Eilvi](https://eilvi.com/)**, my consulting, AI, and automation studio, I turn business workflows into practical software. I work across product design and implementation, from data models and validation to interfaces and integrations.
-
-Outside business projects, I follow my curiosity into football, chess, learning, family life, and small playable worlds. Those projects are part of how I learn and explore new ways to build.
+Outside client work, I build to learn: football, chess, family routines, and small playable worlds.
 
 <table>
   <tr>
@@ -18,13 +16,7 @@ Outside business projects, I follow my curiosity into football, chess, learning,
   </tr>
 </table>
 
-## Recently shipped
-
-- **Margin Map v1.2.0** — scenario analysis and a reconciled Excel workbook.
-- **FolioShift** — guest portfolio workspaces with concentration reviews and currency scenarios.
-- **Pomodoro Músculo beta 0.8.0** — front-facing squat tracking and more reliable break alerts.
-
-## Selected business projects
+## Business software
 
 ### [Margin Map](https://github.com/eduardosalomonm/margin-map)
 E-commerce unit economics: editable Excel inputs, a Python validation pipeline, and an interactive margin dashboard with executive reporting.
@@ -53,7 +45,7 @@ A configurable workspace connecting veterinary appointments, consultation notes,
 
 [Live demo](https://veterinaria.eilvi.com/) · [Public code](https://github.com/eduardosalomonm/cercavet)
 
-## Selected personal projects
+## Things I build for fun
 
 ### [Gravi](https://eduardosalomon.eilvi.com/projects/gravi)
 A small browser-based 3D world where changing gravity opens new ways to move, explore, and solve challenges.
@@ -73,7 +65,7 @@ Football tactics through playable scenarios, guided explanations, and competitio
 
 [Play Pitchwise](https://pitchwise.eilvi.com/) · [Public code](https://github.com/eduardosalomonm/pitchwise-game) · [Case study](https://eduardosalomon.eilvi.com/projects/the-invisible-game)
 
-## More personal projects
+## More side projects
 
 | Project | What I explore |
 | --- | --- |
