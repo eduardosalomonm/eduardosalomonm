@@ -10,7 +10,7 @@ Outside client work, I build to learn: football, chess, family routines, and sma
 
 <table>
   <tr>
-    <td width="33%"><a href="https://eduardosalomon.eilvi.com/projects/a1-unit-economics"><img src="https://raw.githubusercontent.com/eduardosalomonm/eduardosalomonm/main/assets/margin-map.webp" alt="Margin Map dashboard showing synthetic e-commerce margins and variable costs" width="280"></a><br><strong>Margin Map</strong><br>Business software</td>
+    <td width="33%"><a href="https://eduardosalomon.eilvi.com/projects/a1-unit-economics"><img src="https://raw.githubusercontent.com/eduardosalomonm/eduardosalomonm/main/assets/margin-map.webp" alt="Margin Map compares an illustrative promotion: higher sales but less margin after costs" width="280"></a><br><strong>Margin Map</strong><br>Business software</td>
     <td width="33%"><a href="https://eduardosalomon.eilvi.com/projects/gravi"><img src="https://raw.githubusercontent.com/eduardosalomonm/eduardosalomonm/main/assets/gravi.webp" alt="Gravi exploring a small 3D planet with adjustable gravity" width="280"></a><br><strong>Gravi</strong><br>3D exploration</td>
     <td width="33%"><a href="https://eduardosalomon.eilvi.com/projects/the-invisible-game"><img src="https://raw.githubusercontent.com/eduardosalomonm/eduardosalomonm/main/assets/pitchwise.webp" alt="Pitchwise Training Ground with playable football positions and tactical practice" width="280"></a><br><strong>Pitchwise</strong><br>Football tactics & play</td>
   </tr>
@@ -33,13 +33,13 @@ What I pushed most recently, updated daily by a GitHub Action.
 ## Business software
 
 ### [Margin Map](https://github.com/eduardosalomonm/margin-map)
-E-commerce unit economics: editable Excel inputs, a Python validation pipeline, and an interactive margin dashboard with executive reporting.
+Would more sales leave less margin? A decision tool for comparing e-commerce promotions, built from my need to understand the numbers in my own business.
 
-**Engineering focus:** traceable calculations, input integrity, and reproducible HTML, PDF, and Excel outputs. The public demo uses synthetic data.
+**Engineering focus:** effective-dated product and bundle costs, explicit missing inputs, tested scenario calculations, and reproducible HTML/PDF reporting from Shopify snapshots or Excel. The public walkthrough compares two hypothetical offers with synthetic data; it does not claim a measured business uplift or a real-store Shopify pilot.
 
 `Python` `Excel` `Shopify`
 
-[Live demo](https://marginmap.eilvi.com/) · [Public code](https://github.com/eduardosalomonm/margin-map) · [Case study](https://eduardosalomon.eilvi.com/projects/a1-unit-economics)
+[Try the decision](https://marginmap.eilvi.com/#decision-case) · [Public code](https://github.com/eduardosalomonm/margin-map) · [Case study](https://eduardosalomon.eilvi.com/projects/a1-unit-economics)
 
 ### [Inbox Desk](https://github.com/eduardosalomonm/inbox-desk)
 Shared-inbox triage that classifies messages, creates tickets, and prepares Gmail drafts for human review.
