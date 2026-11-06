@@ -23,11 +23,11 @@ What I pushed most recently, updated daily by a GitHub Action.
 <!-- build-log:start -->
 | When | Project | Latest commit |
 | --- | --- | --- |
-| 3 days ago | [margin-map](https://github.com/eduardosalomonm/margin-map) | Release 1.3.0: traceable promotion decisions and safe workbook imports |
-| 5 days ago | [pomodoro-musculo](https://github.com/eduardosalomonm/pomodoro-musculo) | Beta 0.9.0: validación del conteo, avisos por calendario y logros |
-| 6 days ago | [gravi](https://github.com/eduardosalomonm/gravi) | Publish clean gravi source edition |
-| 6 days ago | [pitchwise-game](https://github.com/eduardosalomonm/pitchwise-game) | Publish clean pitchwise source edition |
-| 6 days ago | [cercavet](https://github.com/eduardosalomonm/cercavet) | Quiet draft sync notices, single Back after forms, no past times today |
+| 4 days ago | [margin-map](https://github.com/eduardosalomonm/margin-map) | Release 1.3.0: traceable promotion decisions and safe workbook imports |
+| 6 days ago | [pomodoro-musculo](https://github.com/eduardosalomonm/pomodoro-musculo) | Beta 0.9.0: validación del conteo, avisos por calendario y logros |
+| 1 week ago | [gravi](https://github.com/eduardosalomonm/gravi) | Publish clean gravi source edition |
+| 1 week ago | [pitchwise-game](https://github.com/eduardosalomonm/pitchwise-game) | Publish clean pitchwise source edition |
+| 1 week ago | [cercavet](https://github.com/eduardosalomonm/cercavet) | Quiet draft sync notices, single Back after forms, no past times today |
 <!-- build-log:end -->
 
 ## Business software
