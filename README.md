@@ -23,9 +23,9 @@ What I pushed most recently, updated daily by a GitHub Action.
 <!-- build-log:start -->
 | When | Project | Latest commit |
 | --- | --- | --- |
-| 6 days ago | [tu-inflacion-no-es-el-ipc](https://github.com/eduardosalomonm/tu-inflacion-no-es-el-ipc) | Hacerla compartible: apuesta, máquina del tiempo, imagen para redes y p… |
+| 1 week ago | [tu-inflacion-no-es-el-ipc](https://github.com/eduardosalomonm/tu-inflacion-no-es-el-ipc) | Hacerla compartible: apuesta, máquina del tiempo, imagen para redes y p… |
 | 1 week ago | [margin-map](https://github.com/eduardosalomonm/margin-map) | Release 1.3.0: traceable promotion decisions and safe workbook imports |
-| 1 week ago | [pomodoro-musculo](https://github.com/eduardosalomonm/pomodoro-musculo) | Beta 0.9.0: validación del conteo, avisos por calendario y logros |
+| 2 weeks ago | [pomodoro-musculo](https://github.com/eduardosalomonm/pomodoro-musculo) | Beta 0.9.0: validación del conteo, avisos por calendario y logros |
 | 2 weeks ago | [gravi](https://github.com/eduardosalomonm/gravi) | Publish clean gravi source edition |
 | 2 weeks ago | [pitchwise-game](https://github.com/eduardosalomonm/pitchwise-game) | Publish clean pitchwise source edition |
 <!-- build-log:end -->
