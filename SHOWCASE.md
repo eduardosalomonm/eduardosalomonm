@@ -29,7 +29,7 @@ Each project links to a public case study or demo. **Public code** links are inc
 | --- | --- | --- |
 | **Elu** | Baby routines, memories, and family records; public demo and private family space. | [Case study](https://eduardosalomon.eilvi.com/projects/elu) |
 | **Pomodoro Músculo** | Focus timer, active breaks, and optional on-device movement tracking. | [Case study](https://eduardosalomon.eilvi.com/projects/pomodoro-musculo) · [Public code](https://github.com/eduardosalomonm/pomodoro-musculo) |
-| **Nido Calma** | Calming sounds and guided meditation with Expo and React Native. | [Case study](https://eduardosalomon.eilvi.com/projects/nido-calma) |
+| **Nido Calma** | Voice-free guided breathing with a Web Audio wave, plus voice-guided meditations in Spanish. Expo and React Native. | [Live demo](https://nido-calma.expo.app/) · [Public code](https://github.com/eduardosalomonm/nido-calma) · [Case study](https://eduardosalomon.eilvi.com/projects/nido-calma) |
 | **My Opening** | Chess repertoire discovery and interactive practice with legal move validation. | [Case study](https://eduardosalomon.eilvi.com/projects/my-opening) |
 | **Estoik Curio** | Interactive exploration of philosophy and everyday reflection. | [Case study](https://eduardosalomon.eilvi.com/projects/estoik-curio) |
 | **El patrimonio de mi futuro** | An interactive course exploring personal finance decisions. | [Case study](https://eduardosalomon.eilvi.com/projects/tu-dinero-con-criterio) |
