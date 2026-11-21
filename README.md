@@ -10,7 +10,7 @@ Outside client work, I build to learn: football, chess, family routines, and sma
 
 <table>
   <tr>
-    <td width="33%"><a href="https://eduardosalomon.eilvi.com/projects/a1-unit-economics"><img src="https://raw.githubusercontent.com/eduardosalomonm/eduardosalomonm/main/assets/margin-map.webp" alt="Margin Map compares an illustrative promotion: higher sales but less margin after costs" width="280"></a><br><strong>Margin Map</strong><br>Business software</td>
+    <td width="33%"><a href="https://eduardosalomon.eilvi.com/projects/a1-unit-economics"><img src="https://raw.githubusercontent.com/eduardosalomonm/eduardosalomonm/main/assets/margin-map.webp" alt="Margin Map compares an illustrative promotion: higher sales but less margin after costs" width="280"></a><br><strong>Margin Map</strong><br>Promotion and margin simulator</td>
     <td width="33%"><a href="https://eduardosalomon.eilvi.com/projects/gravi"><img src="https://raw.githubusercontent.com/eduardosalomonm/eduardosalomonm/main/assets/gravi.webp" alt="Gravi exploring a small 3D planet with adjustable gravity" width="280"></a><br><strong>Gravi</strong><br>3D exploration</td>
     <td width="33%"><a href="https://eduardosalomon.eilvi.com/projects/the-invisible-game"><img src="https://raw.githubusercontent.com/eduardosalomonm/eduardosalomonm/main/assets/pitchwise.webp" alt="Pitchwise Training Ground with playable football positions and tactical practice" width="280"></a><br><strong>Pitchwise</strong><br>Football tactics & play</td>
   </tr>
@@ -33,9 +33,9 @@ What I pushed most recently, updated daily by a GitHub Action.
 ## Business software
 
 ### [Margin Map](https://github.com/eduardosalomonm/margin-map)
-Would more sales leave less margin? A decision tool for comparing e-commerce promotions, built from my need to understand the numbers in my own business.
+Before running a promotion, see what it would leave after costs and how many extra orders you would need to hold your margin. I built Margin Map to answer that question for my own e-commerce business.
 
-**Engineering focus:** effective-dated product and bundle costs, explicit missing inputs, tested scenario calculations, and reproducible HTML/PDF reporting from Shopify snapshots or Excel. The public walkthrough compares two hypothetical offers with synthetic data; it does not claim a measured business uplift or a real-store Shopify pilot.
+**Engineering focus:** effective-dated product and bundle costs, explicit missing inputs, tested scenario calculations, and reproducible HTML/PDF reporting from Shopify snapshots or Excel. In the fictional Luma Vale store, a 20% discount with 30% more orders lifts sales by €3,350.22 and cuts margin after declared variable costs by €3,521.07. The model needs 40.5% more orders to hold the baseline.
 
 `Python` `Excel` `Shopify`
 
